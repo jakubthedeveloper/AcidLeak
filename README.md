@@ -12,11 +12,15 @@ Its unique transistor feedback clipping stage produces a dynamic, rounded square
 
 # Schematic
 
-![Acid Leak Schematic](Schematic-1.0.png)
+![Acid Leak Schematic](Schematic-1.1.png)
 
 ## EasyEDA Source
 
-[Download EasyEDA schematic](SCH_Acid-Leak_2026-06-09.json)
+[Download EasyEDA schematic](SCH_Acid-Leak_2026-06-14.json)
+
+## Footswitch wiring (3PDT)
+
+![3PDT footswitch wiring](3PDT_Wiring.png)
 
 # Design Notes
 
