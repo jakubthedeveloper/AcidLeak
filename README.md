@@ -10,6 +10,10 @@ Its unique transistor feedback clipping stage produces a dynamic, rounded square
 
 [![Acid Leak Demo](https://img.youtube.com/vi/eazel9XlBbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=eazel9XlBbc)
 
+# Manual
+
+[Acid Leak Manual](manual.md)
+
 # Schematic
 
 ![Acid Leak Schematic](Schematic-1.1.png)
@@ -73,6 +77,8 @@ This provides two distinctly different voices:
 Dry ON – fuller sound, more body and low-end support.
 
 Dry OFF – more focused, synth-like and aggressive character.
+
+![Acid Leak build](acid-leak-build.jpg)
 
 ## Design Philosophy
 
